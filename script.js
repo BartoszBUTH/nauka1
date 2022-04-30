@@ -9,3 +9,4 @@
 // store.forEach((value, key) => console.log(`${key}, ${value}`));
 
 console.log('hello');
+console.log('hello');
